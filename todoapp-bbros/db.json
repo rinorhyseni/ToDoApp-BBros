@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "title": "Todo 01",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Todo 02",
+      "status": "done",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Todo 03",
+      "status": "done",
+      "completed": false
+    },
+    {
+      "title": "test",
+      "description": "desc",
+      "status": "inProgress",
+      "user": "",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "testrr",
+      "description": "rr",
+      "status": "todo",
+      "user": "",
+      "completed": false,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Rinor",
+      "lastName": "Hyseni",
+      "id": 1
+    },
+    {
+      "firstName": "Rinor Test",
+      "lastName": "Hyseni",
+      "id": 2
+    }
+  ]
+}
